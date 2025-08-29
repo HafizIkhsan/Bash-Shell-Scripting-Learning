@@ -1,0 +1,81 @@
+2025-08-24T05:03:03.933355+07:00 Asus kernel: WSL (217) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-24T05:11:44.140724+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-24T05:11:44.140730+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-24T05:11:44.143943+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-24T05:11:47.938506+07:00 Asus kernel: WSL (219) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-24T06:39:40.888629+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-24T06:39:40.888640+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-24T06:39:40.891366+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-24T06:40:23.620087+07:00 Asus kernel: WSL (216) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-24T09:22:14.351584+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-24T09:22:14.351594+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-24T09:22:14.354073+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-24T09:22:58.155353+07:00 Asus kernel: WSL (215) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-24T19:58:31.914059+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-24T19:58:31.914066+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-24T19:58:31.917628+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-24T19:58:33.154088+07:00 Asus kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-25T04:09:27.291972+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T04:09:27.291978+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T04:09:27.293065+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-25T04:09:27.346733+07:00 Asus logrotate[222]: error: error running shared postrotate script for '/var/log/mysql.log /var/log/mysql/*log '
+2025-08-25T04:09:29.330082+07:00 Asus kernel: WSL (217) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-25T04:23:05.684892+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T04:23:05.684901+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T04:23:05.687704+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-25T04:23:09.068918+07:00 Asus kernel: WSL (216) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-25T04:26:41.742703+07:00 Asus kernel: WSL (399 - Relay(400)) ERROR: ReceiveMessage:253: ExpectedMessage LxInitMessageExitStatus, but socket Control was closed
+2025-08-25T04:26:41.742760+07:00 Asus kernel: WSL (399 - Relay(400)) ERROR: InitCreateProcessUtilityVm:2125: Failed to write exit status 17
+2025-08-25T04:26:41.742774+07:00 Asus kernel: WSL (399 - Relay(400)) ERROR: InitCreateProcessUtilityVm:2145: waitpid failed 17
+2025-08-25T04:41:24.144312+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T04:41:24.144321+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T04:41:24.145679+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-25T04:41:27.087369+07:00 Asus kernel: WSL (217) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-25T04:55:26.094335+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T04:55:26.094341+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T04:55:26.095744+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-25T04:55:29.316289+07:00 Asus kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-25T04:58:41.684590+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T04:58:41.684597+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T04:58:41.686557+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-25T04:58:41.686825+07:00 Asus kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2119: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-08-25T04:58:41.686905+07:00 Asus kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-25T05:00:20.541549+07:00 Asus kernel: device offline error, dev sde, sector 0 op 0x1:(WRITE) flags 0x800 phys_seg 0 prio class 2
+2025-08-25T05:00:20.541594+07:00 Asus kernel: device offline error, dev sde, sector 1076936704 op 0x1:(WRITE) flags 0x4000 phys_seg 256 prio class 2
+2025-08-25T05:00:20.545550+07:00 Asus kernel: device offline error, dev sde, sector 1076938752 op 0x1:(WRITE) flags 0x800 phys_seg 256 prio class 2
+2025-08-25T05:00:20.801854+07:00 Asus kernel: device offline error, dev sde, sector 1073479680 op 0x1:(WRITE) flags 0x9800 phys_seg 1 prio class 2
+2025-08-25T05:00:20.801856+07:00 Asus kernel: device offline error, dev sde, sector 1073479680 op 0x1:(WRITE) flags 0x9800 phys_seg 1 prio class 2
+2025-08-25T05:00:20.801861+07:00 Asus kernel: Buffer I/O error on dev sde, logical block 134184960, lost sync page write
+2025-08-25T05:00:20.801881+07:00 Asus kernel: JBD2: I/O error when updating journal superblock for sde-8.
+2025-08-25T05:00:21.565493+07:00 Asus kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2119: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-08-25T05:08:55.132635+07:00 Asus kernel: device offline error, dev sdg, sector 0 op 0x1:(WRITE) flags 0x800 phys_seg 0 prio class 2
+2025-08-25T05:08:55.136095+07:00 Asus kernel: device offline error, dev sdg, sector 1073479680 op 0x1:(WRITE) flags 0x9800 phys_seg 1 prio class 2
+2025-08-25T05:08:55.136108+07:00 Asus kernel: device offline error, dev sdg, sector 1073479680 op 0x1:(WRITE) flags 0x9800 phys_seg 1 prio class 2
+2025-08-25T05:08:55.139909+07:00 Asus kernel: Buffer I/O error on dev sdg, logical block 134184960, lost sync page write
+2025-08-25T05:08:55.139939+07:00 Asus kernel: JBD2: I/O error when updating journal superblock for sdg-8.
+2025-08-25T06:01:06.197422+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T06:01:06.197467+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T06:01:06.197765+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-25T06:01:09.967468+07:00 Asus kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-25T07:06:19.324392+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T07:06:19.324398+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T07:06:19.326126+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-25T07:06:19.655913+07:00 Asus kernel: WSL (214) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-25T10:17:08.334963+07:00 Asus kernel: WSL (214) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-25T18:52:55.356635+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T18:52:55.356752+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-25T18:52:55.356978+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-25T18:52:58.671932+07:00 Asus kernel: WSL (215) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-25T22:17:50.486678+07:00 Asus kernel: WSL (215) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-26T06:14:10.013168+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-26T06:14:10.013179+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-26T06:14:10.017548+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-26T06:14:10.105309+07:00 Asus logrotate[225]: error: error running shared postrotate script for '/var/log/mysql.log /var/log/mysql/*log '
+2025-08-26T06:14:16.856336+07:00 Asus kernel: WSL (216) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-08-26T06:14:18.589910+07:00 Asus kernel: WSL (216) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-08-26T14:19:37.619298+07:00 Asus systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-26T14:19:37.619303+07:00 Asus systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-08-26T14:19:37.620673+07:00 Asus kernel: RAS: Correctable Errors collector initialized.
+2025-08-26T14:19:48.606002+07:00 Asus kernel: WSL (215) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-08-26T14:20:20.453995+07:00 Asus kernel: WSL (215) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-08-26T18:20:11.084603+07:00 Asus kernel: WSL (215) ERROR: CheckConnection: getaddrinfo() failed: -5
